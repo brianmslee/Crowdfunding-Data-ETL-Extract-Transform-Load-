@@ -22,3 +22,6 @@ In this mini project, the goal was to work in groups to practice building an ETL
 	- This final dataframe would then be exported into a CSV file
 - Create the Crowdfunding Database
 	- With the finished CSV files, we created an ERD and a subsequent table schema which was then used to create our final database 
+
+#### Some of the Data Transformation 
+![image](https://user-images.githubusercontent.com/114372545/230667888-2fa0b844-ccf2-4ae8-a310-a18097973f13.png)
